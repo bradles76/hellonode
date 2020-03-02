@@ -1,6 +1,4 @@
 # Hello Node
-This is a very basic Hello World application written with Node.
+The goal of this example is to show you how to get a Node.js application into a Docker container. The guide is intended for development, and not for a production deployment. The guide also assumes you have a working Docker installation and a basic understanding of how a Node.js application is structured.
 
-It includes a `Dockerfile` for building a Docker image with the application, and a `Jenkinsfile` that defines a build pipeline for it.
-
-https://getintodevops.com
+https://nodejs.org/de/docs/guides/nodejs-docker-webapp/
